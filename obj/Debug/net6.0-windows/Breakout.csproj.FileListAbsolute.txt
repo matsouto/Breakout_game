@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\bin\Debug\net6.0-windows\Breakout.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\bin\Debug\net6.0-windows\Breakout.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\bin\Debug\net6.0-windows\Breakout.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\bin\Debug\net6.0-windows\Breakout.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\bin\Debug\net6.0-windows\Breakout.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\Breakout.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\Breakout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\Breakout.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\Breakout.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\Breakout.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\Breakout.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\refint\Breakout.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\Breakout.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\Breakout.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Programas\Cs\Breakout\obj\Debug\net6.0-windows\ref\Breakout.dll
